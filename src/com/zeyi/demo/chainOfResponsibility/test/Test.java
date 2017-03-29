@@ -5,4 +5,6 @@ package com.zeyi.demo.chainOfResponsibility.test;
  */
 public class Test {
     //我是小傻子
+
+// Сɵ��
 }
