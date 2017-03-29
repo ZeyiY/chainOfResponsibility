@@ -17,7 +17,7 @@ public class chainOfResponsibilityTest {
         //配置链顺序
         firstConditionCheck.setConditionHandler(secondConditionCheck);
         check =   firstConditionCheck.checkCondition(conditionRequest);
-
+        //输出结果
         System.out.println("最后的链结果："+check);
     }
 }
